@@ -1,11 +1,12 @@
   <h1 align="center">Olá sou o Igor, Desenvolvedor FullStack e apaixonado por games!</h1>
 
+<!--
   <div align="center">
     <a href="https://github.com/Ihorlle">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ihorlle&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ihorlle&layout=compact&langs_count=7&theme=dark"/>
   </div>
-  
+  -->
   <div align="center"><br>
     <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
     <img align="center" alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg">
