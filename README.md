@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=A6C620&size=35&center=true&vCenter=true&width=1000&lines=Hello!!!;I´m+Igor,;FullStack+Developer;and+passionate+about+games!!!+:%29)](https://git.io/typing-svg)
     
 ##
-
+<!--
   <div align="center">
     <a href="https://github.com/Ihorlle">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ihorlle&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -11,7 +11,7 @@
   </div>
   
 ##
-  
+--> 
   ![Snake animation](https://github.com/Ihorlle/Ihorlle/blob/output/github-contribution-grid-snake.svg)
   
 ##
